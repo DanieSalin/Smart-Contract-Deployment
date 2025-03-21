@@ -80,3 +80,13 @@ Smart contract `SimpleToken.sol` là một token ERC-20 đơn giản với các 
 - Đây là project dành cho mục đích học tập và thử nghiệm.
 - Luôn sử dụng mạng thử nghiệm (testnet) Sepolia, không sử dụng trên mạng chính (mainnet).
 - Bảo vệ private key của bạn và không bao giờ chia sẻ chúng. 
+
+
+## Liên hệ
+
+Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ với tôi qua:
+
+- GitHub: [DanieSalin](https://github.com/DanieSalin)
+- Email: dodat2004py@gmail.com  
+- LinkedIn: [Đỗ Tấn Đạt](https://www.linkedin.com/in/dotandatdaniel/)
+
